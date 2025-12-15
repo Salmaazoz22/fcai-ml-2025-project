@@ -50,9 +50,8 @@ This repository contains two machine learning projects:
 ### 🔹 Models
 | Model | Learning Type | Accuracy |
 |-------|---------------|---------|
-| Linear Regression | Supervised | ~XX% |
-| K-Nearest Neighbors (KNN) | Supervised | ~XX% |
-| XGBoost (optional) | Supervised | ~XX% |
+| Linear Regression | Supervised | 87% |
+| K-Nearest Neighbors (KNN) | Supervised | ~81% |
 
 - Data preprocessing: Handling missing values, encoding categorical variables, scaling numerical features  
 - Evaluation: Confusion matrix, accuracy score, and classification report  
