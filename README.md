@@ -32,8 +32,8 @@ This repository contains two machine learning projects:
 ### 🔹 Models & Features
 | Model | Learning Type | Features | Accuracy |
 |-------|---------------|---------|----------|
-| Logistic Regression | Supervised | Raw Pixels | 95.83% |
-| K-Means + HOG      | Unsupervised | HOG Features | 74.15% |
+| Logistic Regression | Supervised | Raw Pixels | 97.92% |
+| K-Means + HOG      | Unsupervised | HOG Features | 71.14% |
 
 - Logistic Regression: Confusion matrix, ROC curve, and loss curve evaluation  
 - K-Means: t-SNE visualization, cluster-to-label mapping  
